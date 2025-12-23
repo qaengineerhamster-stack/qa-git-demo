@@ -1,2 +1,3 @@
 print("Login test")
 
+assert
